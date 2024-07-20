@@ -30,7 +30,7 @@ The dashboard includes several filters to help drill down into specific data poi
 - **Demographics**
 - **Disability Status**
 
-![Student Support Hubs Dashboard-Filters and KPIs](./SU Hub2.png)
+![Student Support Hubs Dashboard](./SU Hub2.png)
 
 ### Sections
 #### Students who have used the Student Support Hubs
