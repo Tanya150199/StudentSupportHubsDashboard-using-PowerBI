@@ -10,7 +10,7 @@ The Student Support Hubs survey consists of a number of questions designed to ga
 ### Overview
 The dashboard is divided into sections for students who have used the Student Support Hubs and those who have not. It includes detailed views on various aspects such as how students heard about the Hubs, their reasons for visiting or not visiting, the support they sought, and their overall satisfaction.
 
-![Student Support Hubs Dashboard](./SU Hub.png)
+![Student Support Hubs Dashboard](./SUHub.png)
 
 ### Key Performance Indicators (KPIs)
 At the top of each section, the following KPIs are displayed:
@@ -30,7 +30,7 @@ The dashboard includes several filters to help drill down into specific data poi
 - **Demographics**
 - **Disability Status**
 
-![Student Support Hubs Dashboard](./SU Hub2.png)
+![Student Support Hubs Dashboard](./SUHub2.png)
 
 ### Sections
 #### Students who have used the Student Support Hubs
